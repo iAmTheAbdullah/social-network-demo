@@ -4,10 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SocialNetworkDemoApplication {
-
+public class MainApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(SocialNetworkDemoApplication.class, args);
+		SpringApplication.run(MainApplication.class, args);
 	}
-
 }
